@@ -1,4 +1,4 @@
 # meenuportfolio
 This is my first portfolio website.
 <br>
-Author - Meenu Sharma
+Author - Meenu (portfolio)
